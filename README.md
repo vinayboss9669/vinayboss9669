@@ -3,7 +3,7 @@
 
 ---
 
-### 👨‍💻 About Me:
+### 👨‍💻 About Me:-
 - 🌱 I’m currently learning **Full Stack Development**
 - 📫 Reach me at: vinayboss9669@gmail.com
 - 🧠 Fun fact: Caffeine is my co-pilot 💻☕
